@@ -1,0 +1,6 @@
+<Alloy>
+	<Window title="Window A1">
+		<Label>This is Window A1</Label>
+		<Button onClick="openWinA2">open Window A2</Button>
+	</Window>
+</Alloy>
